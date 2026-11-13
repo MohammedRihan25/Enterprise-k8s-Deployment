@@ -13,3 +13,7 @@ node_modules/
 # OS junk files
 .DS_Store
 Thumbs.db
+
+# Python Virtual Environment
+.venv/
+venv/
