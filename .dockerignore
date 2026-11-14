@@ -1,0 +1,17 @@
+# Git & CI/CD
+.git
+.gitignore
+.github
+
+# Local Python virtual environments & cache
+.venv
+venv
+__pycache__/
+*.pyc
+
+# Non-application folders (keep image strictly focused on app/)
+terraform/
+k8s/
+monitoring/
+docs/
+README.md
